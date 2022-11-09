@@ -11,6 +11,6 @@
 
   <?= $this->renderSection('content')?>
 
-    <script src="<?=base_url('js/bootstrap.min.js') ?>"></script>
+    <script src="<?=base_url('js/bootstrap.bundle.js') ?>"></script>
   </body>
 </html>

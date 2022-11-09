@@ -2,10 +2,11 @@
 
 namespace App\Controllers;
 
-class Home extends BaseController
+class periode extends BaseController
 {
     public function index()
     {
-        return view('home');
+        return view('periode/index');
     }
 }
+
