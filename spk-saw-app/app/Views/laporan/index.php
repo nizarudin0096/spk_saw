@@ -1,7 +1,7 @@
-<?= $this->extend('layout/page_layout') ?>
+<?= $this->extend('layout/page_layout')?>
 
-<?= $this->section('content');?>
+<?= $this->section('content')?>
 
-<h1>halaman data laporan</h1>
+<h1>Halaman Laporan</h1>
 
-<?= $this->endsection()?>
+<?= $this->endSection()?>
